@@ -18,4 +18,4 @@ client.on("message",(msg)=> {
     }
 });
 
-client.login("NzM4MDU0NTcxMDc0NzgxMjQ2.XyGU4g.LJoYv7SmWjmFUZ7pJZJkcz8Y0hI");
+client.login("");
